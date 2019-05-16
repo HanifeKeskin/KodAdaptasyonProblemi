@@ -1,0 +1,10 @@
+C:\Users\Toshiba\source\repos\KodAdaptasyonProblemi\KodAdaptasyonProblemi\bin\Debug\KodAdaptasyonProblemi.exe.config
+C:\Users\Toshiba\source\repos\KodAdaptasyonProblemi\KodAdaptasyonProblemi\bin\Debug\KodAdaptasyonProblemi.exe
+C:\Users\Toshiba\source\repos\KodAdaptasyonProblemi\KodAdaptasyonProblemi\bin\Debug\KodAdaptasyonProblemi.pdb
+C:\Users\Toshiba\source\repos\KodAdaptasyonProblemi\KodAdaptasyonProblemi\obj\Debug\KodAdaptasyonProblemi.csprojAssemblyReference.cache
+C:\Users\Toshiba\source\repos\KodAdaptasyonProblemi\KodAdaptasyonProblemi\obj\Debug\KodAdaptasyonProblemi.Form1.resources
+C:\Users\Toshiba\source\repos\KodAdaptasyonProblemi\KodAdaptasyonProblemi\obj\Debug\KodAdaptasyonProblemi.Properties.Resources.resources
+C:\Users\Toshiba\source\repos\KodAdaptasyonProblemi\KodAdaptasyonProblemi\obj\Debug\KodAdaptasyonProblemi.csproj.GenerateResource.cache
+C:\Users\Toshiba\source\repos\KodAdaptasyonProblemi\KodAdaptasyonProblemi\obj\Debug\KodAdaptasyonProblemi.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\source\repos\KodAdaptasyonProblemi\KodAdaptasyonProblemi\obj\Debug\KodAdaptasyonProblemi.exe
+C:\Users\Toshiba\source\repos\KodAdaptasyonProblemi\KodAdaptasyonProblemi\obj\Debug\KodAdaptasyonProblemi.pdb
